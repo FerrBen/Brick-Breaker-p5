@@ -7,8 +7,8 @@
 * [X] Get paddle on the screen
 * [X] Move paddle with keyboard
 * [X] get a ball on screen
-* [ ] Launch the ball when the game starts
-* [ ] Bounce ball od edges
+* [X] Launch the ball when the game starts
+* [X] Bounce ball off of edges
 * [ ] Bounce ball off paddle
 * [ ] Create one row of bricks
 * [ ] Ball bounces off brick
